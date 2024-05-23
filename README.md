@@ -1,6 +1,6 @@
 ## Salve meu nome e kauan,novato na plataforma.Espero conseguir entender e fazer algo por aqui.🎱​🥇
 ## Estudante da plataforma Alura 𝓐
-## Evoluindo na linguagem JavaScript ♨️
+## Evoluindo na linguagem JavaScript ![](https://www.flaticon.com/br/icone-gratis/java_5968282?term=java&page=1&position=2&origin=tag&related_id=5968282)
 ## Pretendo usar essa plataforma para o envio e organização de projetos
 ## Você pode entrar em contato comigo pelo email 📫​​ (kauanchavesousa6@gmail.com) 
 <!--

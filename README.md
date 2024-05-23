@@ -1,5 +1,4 @@
-## Salve meu nome e kauan,novato na plataforma.Espero conseguir entender e fazer algo por aqui.
-                                       🎱​🥇
+## Salve meu nome e kauan,novato na plataforma.Espero conseguir entender e fazer algo por aqui.🎱​🥇
 
 <!--
 **Zlkauanzin/Zlkauanzin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

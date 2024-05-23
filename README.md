@@ -1,6 +1,6 @@
 ## Salve meu nome e kauan,novato na plataforma.Espero conseguir entender e fazer algo por aqui.🎱​🥇
-## Estudante da plataforma Alura
-## Evoluindo na linguagem JavaScript <i class="fi fi-brands-java"></i>
+## Estudante da plataforma Alura 𝓐
+## Evoluindo na linguagem JavaScript ♨️
 ## Pretendo usar essa plataforma para o envio e organização de projetos
 ## Você pode entrar em contato comigo pelo email 📫​​ (kauanchavesousa6@gmail.com) 
 <!--

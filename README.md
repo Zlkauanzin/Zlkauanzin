@@ -1,4 +1,4 @@
-## Salve meu nome e kauan,novato na plataforma.Espero conseguir entender e fazer algo por aqui.🎱​🥇
+## Salve meu nome e kauan,novato na plataforma.Espero conseguir entender e fazer algo por aqui.
 ## Estudante da plataforma Alura.
 ## Evoluindo na linguagem JavaScript ![java (3)](https://github.com/Zlkauanzin/Zlkauanzin/assets/170642382/1fbd8e14-4a80-43f0-adff-0c22d5ed43bf)
 ## Pretendo usar essa plataforma para o envio e organização de projetos.
